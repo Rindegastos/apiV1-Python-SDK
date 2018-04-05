@@ -7,12 +7,12 @@ El SDK PYTHON de Rindegastos te permite rápidamente integrar tus servicios con 
 
 #Instrucciones
 
-Lo primero que debes hacer para usar el SDK es descargarlo aquí. Una vez descargado lo único que tienes que hacer es incluir la clase RindeGastos.PYTHON en tu proyecto y hacer uso de sus funciones.
+Lo primero que debes hacer para usar el SDK es descargarlo aquí. Una vez descargado lo único que tienes que hacer es incluir la clase importar Sdkrindegastos en tu proyecto y hacer uso de sus funciones.
 
 Importante: recuerda que lo primero que debes hacer es tener to Token de Acceso a la API asignado como se indica aquí.
 
 # Ejemplo de uso
-Consumir los métodos de la API con el SDK es muy simple. A continuación te explicamos cómo hacerlo para usar el método getExpenses de la API.s
+Consumir los métodos de la API con el SDK es muy simple. A continuación te explicamos cómo hacerlo para usar el método getUsers de la API.
 
 ``` PYTHON
 import Sdkrindegastos
